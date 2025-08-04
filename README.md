@@ -1,8 +1,8 @@
 ## 쇼핑몰 - 7장 ##
 
-###  1 주문기능구현 ###
-###  2 주문이력조회 ###
-###  1 주문취소하기 ###
+###  1. 주문기능구현 ###
+###  2. 주문이력조회 ###
+###  3. 주문취소하기 ###
 
 
 <img width="864" height="617" alt="12" src="https://github.com/user-attachments/assets/eb49ea1e-6da0-47fa-9ae6-209b845ede3e" />
